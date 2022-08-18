@@ -1,0 +1,29 @@
+.header {
+    font-size: 28px;
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+
+.description {
+    text-align: center;
+    font-size: 18px;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.list,.description{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list {
+    color: blueviolet;
+}
+
+.directions {
+    color: green;
+}
